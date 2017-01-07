@@ -1,0 +1,29 @@
+html {
+  font-family: 'Josefin Sans', sans-serif;
+ /* font-family: 'Oswald', sans-serif;*/
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%; }
+
+ footer {
+ 	text-align: right;
+ }
+
+ .p {
+
+ }
+
+ .pxx {
+
+ }
+
+ .pxxl {
+
+ }
+
+ .list-inline {
+ 	display: -webkit-inline-box;
+ 	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 60px;
+ }
