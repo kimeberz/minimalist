@@ -25,5 +25,21 @@ html {
  	list-style-type: none;
     margin: 0;
     padding: 0;
-  		  width: 60px;
+ 	width: 260px;
+ }
+
+ li>a{
+ 	text-decoration: none;
+ 	border-right: black 1px solid;
+    padding-right: 10px;
+    padding-left: 10px;
+ }
+
+ li:first-child {
+ 	padding-left: 0;
+ }
+
+ a:hover {
+ 	background-color: #FFB5B6;
+
  }
