@@ -9,15 +9,25 @@ html {
  }
 
  .p {
+ 	padding-bottom: 8px;
 
  }
 
+ .px {
+ 	padding-bottom: 16px;
+ }
+
  .pxx {
+ 	padding-bottom: 24px;
 
  }
 
  .pxxl {
+ 	padding-bottom: 32px;
+ }
 
+ .pxxxl {
+ 	padding-bottom: 40px;
  }
 
  .list-inline {
@@ -35,7 +45,7 @@ html {
     padding-left: 10px;
  }
 
- li:first-child {
+ .firstli {
  	padding-left: 0;
  }
 
