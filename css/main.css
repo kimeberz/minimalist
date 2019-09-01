@@ -2,8 +2,25 @@ html {
   font-family: 'Josefin Sans', sans-serif;
  /* font-family: 'Oswald', sans-serif;*/
   -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%; }
+  -webkit-text-size-adjust: 100%;
+  color: #686868
+   }
 
+ body {
+ 	margin: 80px;
+ }
+
+ .tenets {
+ 	font-family: JosefinSans-BoldItalic;
+	font-size: 20px;
+	color: #000000;
+ }
+
+ h1 {
+ 	font-family: JosefinSans-SemiBold;
+/*	font-size: 26px;
+*/	color: #686868;
+ }
  footer {
  	text-align: right;
  }
@@ -51,6 +68,7 @@ html {
 
  a:hover {
  	background-color: #FFB5B6;
+ 	text-decoration: underline;
 
  }
 
@@ -68,6 +86,7 @@ html {
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
+	opacity: .2;
 }
 
 #triangle {
